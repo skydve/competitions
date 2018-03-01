@@ -17,3 +17,7 @@ nickname: _Novice_
 28 место задача B
 [Sberbark DSJ](https://sdsj.ru/ru/contest.html)
 
+
+## Open Data Science курс 3 сессия
+[рейтинговая таблица](https://docs.google.com/spreadsheets/d/1HMn7uA8CwfBoWuDkiJkVomkKkoOVXyIm-vKFZlISotk/edit#gid=2026966465)
+
