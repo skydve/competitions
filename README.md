@@ -9,6 +9,7 @@ my results in some competitive tasks
 ### current
 71 of 387 (top 19%)
 [Kaggle Catch Me if you Can](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/leaderboard)
+nickname: _Novice_
 
 ## Sberbank DSJ
 ### November 2017
